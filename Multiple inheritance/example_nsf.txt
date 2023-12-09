@@ -1,0 +1,1 @@
+This example demonstrates the use of multiple inheritance in NSF (Next Scripting Framework) using Tcl. The code snippet creates three classes (Base1, Base2, and Sub) and illustrates how a subclass can inherit methods from more than one superclass.
